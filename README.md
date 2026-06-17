@@ -1,4 +1,7 @@
-# React , express, mongoose, mongodb atlas, node , bcrypt, jwt , validator or zod, nodemailer, cors, helmet, nodemon, , dotenv, claudinary, razorpay ..... 
+# React , express, mongoose, mongodb atlas, node , bcrypt, jwt , validator or zod, nodemailer, cors, helmet, nodemon, , dotenv, claudinary, razorpay
+
+# Initialize a initial package.json
+    write --> npm init -y
 
 # package.json 
    i) change the type to module (below lincense)
@@ -8,7 +11,7 @@
    iii) in scripts 
           add --> "dev" : "nodemon server.js"
 
-folder structure...-> 
+# folder structure --> 
 src 
   |--> config
   |--> constants
