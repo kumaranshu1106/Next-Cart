@@ -1,4 +1,4 @@
-# React , express, mongoose, mongodb atlas, node , bcrypt, jwt , validator or zod, modemailer, cors, helmet, nodemon, , dotenv, claudinary, razorpay ..... 
+# React , express, mongoose, mongodb atlas, node , bcrypt, jwt , validator or zod, nodemailer, cors, helmet, nodemon, , dotenv, claudinary, razorpay ..... 
 
 # package.json 
    i) change the type to module (below lincense)
@@ -114,3 +114,9 @@ src
 
      iv)  go to the cluster and click on connect 
          --> connect to mongodb atlas
+
+# mongoose configuration 
+   in config folder
+    --> create db.config.js file
+
+       
